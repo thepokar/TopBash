@@ -6,6 +6,6 @@ Top Bash Script Commands , Tools  and Kali Linux , Ubuntu ,Parrot Commands(I wil
 <th>Command</th>
 <th>Description</th>
 </tr>
-<tr><td>1</td><td><a target="_blank">ls</a></td><td>Displaying all files and folders in Directory</td></tr>
+<tr><td><a target="_blank">ls</a></td><td>Displaying all files and folders in Directory</td></tr>
 </table>
 
